@@ -18,3 +18,9 @@ int main() {
     return 0;
 }
 
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+mbed-os
